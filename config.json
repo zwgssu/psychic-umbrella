@@ -1,6 +1,6 @@
 {
 	"admin_server": {
-		"listen_url": "https://gophish-cunu.onrender.com",
+		"listen_url": "https://gophish-cunu.onrender.com:80",
 		"use_tls": true,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
