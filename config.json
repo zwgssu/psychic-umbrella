@@ -10,7 +10,7 @@
 		"listen_url": "0.0.0.0:443",
 		"use_tls": false,
 		"cert_path": "example.crt",
-		"key_path": "example.key"
+		"key_path": "example.key",
                 "trusted_origins": ["gophish-cunu.onrender.com:443"]
 	},
 	"db_name": "sqlite3",
